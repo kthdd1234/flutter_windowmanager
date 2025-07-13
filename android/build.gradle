@@ -24,7 +24,7 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 28
 
-    namespace 'com.kthdd.flutter_windowmanager'
+    namespace 'com.dev.flutter_windowmanager'
 
     defaultConfig {
         minSdkVersion 16
